@@ -1,7 +1,7 @@
 # Igninite-Solution
 
 
-<<<<<<< HEAD
+
 # Introduction 
 Web app showing realtime RSS feed from BBC news website.
 This app is based on a Cherry Backend with Redis as storage.
@@ -29,6 +29,3 @@ For local deployment:
 
 
 
-=======
-# Igninite-Solution
->>>>>>> e933777df9a1184df3ee05deb0ff394a8253894e
