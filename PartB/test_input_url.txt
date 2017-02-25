@@ -1,0 +1,22 @@
+The tested RSS URL's are:
+
+1. http://feeds.nytimes.com/nyt/rss/HomePage
+2. http://hosted.ap.org/lineups/USHEADS-rss_2.0.xml?SITE=RANDOM&SECTION=HOME
+3. http://www.npr.org/rss/rss.php?id=1001
+4. http://www.sltrib.com/rss/feed/?sec=/News/Utah/&level=1
+5. http://www.ksl.com/xml/148.rss
+6. http://www.utah.gov/whatsnew/rss.xml
+7. http://topics.nytimes.com/top/news/national/usstatesterritoriesandpossessions/utah/index.html?inline=nyt-geo&rss=1
+8. http://www.npr.org/rss/rss.php?id=1013
+9. http://www.techlearning.com/RSS
+10. http://hosted.ap.org/lineups/SCIENCEHEADS-rss_2.0.xml?SITE=OHLIM&SECTION=HOME
+11. http://feeds.sciencedaily.com/sciencedaily
+12. http://feeds.nature.com/nature/rss/current
+13. http://www.nasa.gov/rss/image_of_the_day.rss
+14. http://www.techlearning.com/RSS
+15. http://feeds.nytimes.com/nyt/rss/Technology
+16. http://www.npr.org/rss/rss.php?id=1019
+17. http://www.techworld.com/news/rss
+18. http://hosted.ap.org/lineups/SPORTSHEADS-rss_2.0.xml?SITE=VABRM&SECTION=HOME
+19. http://www.si.com/rss/si_topstories.rss
+20. http://feeds1.nytimes.com/nyt/rss/Sports
